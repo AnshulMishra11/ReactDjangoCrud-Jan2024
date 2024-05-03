@@ -1,4 +1,4 @@
 # created by virtualenv automatically
 # *
 pyvenv.cfg
-settings.py
+"../crud/crud/settings.py"
